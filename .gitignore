@@ -1,7 +1,4 @@
 .env
-__pycache__/
-.ipynb_checkpoints/
-data/
 *.parquet
 kedaibuku_dbt/target/
 kedaibuku_dbt/logs/
